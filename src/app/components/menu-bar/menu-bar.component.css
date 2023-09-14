@@ -1,0 +1,15 @@
+.container__menu-bar {
+  margin-top: 15px;
+}
+
+.menu-bar__links {
+  display: flex;
+  flex-direction: row;
+}
+
+.menu-bar__links > li{
+  list-style: none;
+  margin-right: 20px;
+}
+
+
