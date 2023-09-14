@@ -1,8 +1,8 @@
-.container__menu__title {
+.container__menu-title {
   color: white;
 }
 
-.container__menu__title > h1 {
+.container__menu-title > h1 {
   padding: 15px 0px;
   text-align: center;
   font-size: 135px;
@@ -11,6 +11,6 @@
   justify-content: center;
 }
 
-.container__menu__title > hr {
+.container__menu-title > hr {
   margin: 20px 0px 5px 0px;
 }
