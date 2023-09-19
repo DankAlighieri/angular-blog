@@ -7,6 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class MenuBarComponent implements OnInit {
 
+  homeIcon:string = '../../../assets/icons8-home-48.png'
+
   constructor() { }
 
   ngOnInit(): void {
